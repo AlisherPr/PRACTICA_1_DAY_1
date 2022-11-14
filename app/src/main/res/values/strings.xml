@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica_1</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="title_activity_main4">MainActivity4</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_sing_in">Sing_in</string>
+    <string name="title_activity_sing_up">Sing_up</string>
+    <string name="title_activity_edit_task">EditTaskActivity</string>
+    <string name="title_activity_add_task">AddTaskActivity</string>
+    <string name="title_activity_create_alarm">CreateAlarmActivity</string>
+    <string name="title_activity_edit_alarm">EditAlarm</string>
+</resources>
